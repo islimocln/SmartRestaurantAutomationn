@@ -156,8 +156,8 @@ Rezervasyon, masraf girişi ve gün sonu (ciro) raporu gibi modülleri içerir.
       <sub>13 — Çıkış Onayı • <a href="./docs/13-exit-confirmation.png">Dosya</a></sub>
     </td>
     <td align="center">
-      <a href="./docs/14-db-expenses-query.pnge">
-        <img src="./docs/14-db-expenses-query.pnge" alt="DB – Masraflar Sorgusu" width="360">
+      <a href="./docs/14-db-expenses-query.png">
+        <img src="./docs/14-db-expenses-query.png" alt="DB – Masraflar Sorgusu" width="360">
       </a><br>
       <sub>14 — DB – Masraflar Sorgusu • <a href="./docs/14-db-expenses-query.png">Dosya</a></sub>
     </td>
